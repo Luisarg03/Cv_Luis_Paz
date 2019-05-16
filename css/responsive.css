@@ -1,0 +1,36 @@
+@media(max-width:760px){
+    .text-header-right{
+        text-align: center;
+        margin-top:5%;
+    }
+
+    .ico-header-left{
+        margin-bottom: 5%;
+    }
+
+    #ico{
+        display: none;
+    }
+
+    .subtitle{
+        display:inline;
+        text-align: left;
+        margin-bottom: 8%;
+        font-size: 30px;
+    }
+
+    .subtitle_work{
+        display:inline;
+        text-align: left;
+        margin-bottom: 10%;
+        font-size: 30px;
+    }
+
+    .info{
+        text-align: center;
+    }
+
+    .info_work{
+        margin-top: 5%;
+    }
+}

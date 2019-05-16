@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    padding: 30px 20px;
+}
+
+header, footer ,h1, h2, h3 ,h4 ,h5 ,h6{
+	font-family: 'Roboto', sans-serif;
+}
+
+section ,p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*-------------------------------------------------------*/
+/*-------------------------------------------------------*/
+/*-------------------------------------------------------*/
+
+.Luis{
+    font-size: 30px;
+}
+
+.pic{
+    width: 200px;
+    height: 350px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(134, 134, 134);
+}
+
+#navbarNav{
+    transition: all 0.4s;
+}
+
+#sobre_mi{
+    font-size: 17px;
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.contenedor_s{
+    margin-top:10%;
+    margin-bottom: 10%;
+}
+
+.linea{
+    background: black;
+}
+
+.ico-header-left{
+    font-size: 200px;
+}
+
+.icono{
+    font-size: 200px;
+}
+
+#academico{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: white;
+}
+
+#experiencia{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: white;
+}
+
+#informatica{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: white;
+}
+
+.btn-red{
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
+.btn-red-f{
+    font-size: 20px;
+    padding: 5px 9.5px;
+}
+
+.btn-red-drive{
+    margin-bottom: 10px;
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
+.subtitle{
+    display:none;
+}
+
+.subtitle_work{
+    display: none;
+}
