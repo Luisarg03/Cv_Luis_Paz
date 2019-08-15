@@ -1,12 +1,4 @@
 @media(max-width:760px){
-    .text-header-right{
-        text-align: center;
-        margin-top:5%;
-    }
-
-    .ico-header-left{
-        margin-bottom: 5%;
-    }
 
     #ico{
         display: none;
